@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">Fascinated by programming since 2010, aspiring Full Stack Developer with skills in Node.js, Express.js, React, and TypeScript. My beginnings as an entrepreneur from 2016 to 2018 allowed me to explore php, WordPress, and phpBB. Despite the lack of commercial experience, I am ready for new challenges in the field of programming. My dedication, creativity, and ability to work effectively in a team form a strong foundation for my approach to programming.</p>
 
 ###
 
