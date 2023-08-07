@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning nest.js, using AI in projects</p>
+<p align="left">📚 I'm currently learning how to use AI in projects and nest.js</p>
 
 ###
 
