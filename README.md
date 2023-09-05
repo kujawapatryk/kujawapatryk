@@ -86,7 +86,7 @@
     Aplikacja ToDoList stworzona jako zadanie rekrutacyjne. Umożliwia dodawanie, oznaczanie i usuwanie zadań w intuicyjny sposób.
     <a href="https://headhunter.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
   </p>
-  <p><strong>Technologie używane:</strong> TypeScript, React, Nest.js, MariaDB, Jest, Cypress, Docker.</p>
+  <p><strong>Technologie:</strong> TypeScript, React, Nest.js, MariaDB, Jest, Cypress, Docker.</p>
 
 </div>
 
@@ -95,7 +95,7 @@
   Projekt "HeadHunter" rozpoczęty przez uczestników MegaKurs nie został ukończony w wyznaczonym czasie. Kontynuowałem go indywidualnie, tworząc platformę rekrutacyjną dla absolwentów kursu. 
   <a href="https://todo.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
 </p>
-<p><strong>Technologie używane:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+<p><strong>Technologie:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
 
 
 
