@@ -84,7 +84,7 @@
   <h3><a href="https://github.com/kujawapatryk/toDoList_client" target="_blank">ToDoList</a></h3>
   <p>
     Aplikacja ToDoList stworzona jako zadanie rekrutacyjne. Umożliwia dodawanie, oznaczanie i usuwanie zadań w intuicyjny sposób.
-    <a href="https://headhunter.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
+    <a href="https://todo.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
   </p>
   <p><strong>Technologie:</strong> TypeScript, React, Nest.js, MariaDB, Jest, Cypress, Docker.</p>
 
@@ -92,10 +92,11 @@
 
 <h3><a href="https://github.com/kujawapatryk/HeadHunter_client" target="_blank">HeadHunter</a></h3>
 <p>
-  Projekt "HeadHunter" rozpoczęty przez uczestników MegaKurs nie został ukończony w wyznaczonym czasie. Kontynuowałem go indywidualnie, tworząc platformę rekrutacyjną dla absolwentów kursu. 
-  <a href="https://todo.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
+  "HeadHunter" narodził się jako grupowy projekt w ramach MegaKurs. Jest to platforma rekrutacyjna, która ma na celu łączenie absolwentów kursu z headhunterami z różnych firm. Mimo że pierwotnie projekt nie został ukończony przez grupę, postanowiłem podjąć się wyzwania i dokończyć go według specyfikacji.
+  <a href="https://headhunter.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
 </p>
-<p><strong>Technologie:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+<p><strong>Technologie używane:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+
 
 
 
