@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning how to use AI in projects and nest.js</p>
+<p align="left">📚I'm currently learning how to use artificial intelligence in projects and improving my skills in Laravel.</p>
 
 ###
 
