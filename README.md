@@ -95,7 +95,7 @@
   "HeadHunter" narodził się jako grupowy projekt w ramach MegaKurs. Jest to platforma rekrutacyjna, która ma na celu łączenie absolwentów kursu z headhunterami z różnych firm. Mimo że pierwotnie projekt nie został ukończony przez grupę, postanowiłem podjąć się wyzwania i dokończyć go według specyfikacji.
   <a href="https://headhunter.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
 </p>
-<p><strong>Technologie używane:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+<p><strong>Technologie:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
 
 
 
