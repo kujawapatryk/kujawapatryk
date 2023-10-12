@@ -116,13 +116,18 @@
 
 <h3><a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">FreeCodeCamp</a></h3>
 <p>
-  Ukończyłem wiele zadań na platformie FreeCodeCamp, zdobywając umiejętności w różnych dziedzinach programowania i rozwoju webowego.
+  Ukończyłem zadania na platformie FreeCodeCamp, zdobywając umiejętności w różnych dziedzinach programowania i rozwoju webowego.
   <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">Zobacz moje wykonane zadania</a>.
 </p>
 <p>
   <strong>Certyfikat:</strong> <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">Zobacz mój certyfikat</a>.
 </p>
 
+<h3><a href="LINK_DO_REPOZYTORIUM_AI" target="_blank">Prompty dla ChatGPT</a></h3>
+<p>
+  Repozytorium zawiera prompty dla modelu ChatGPT od OpenAI, które rozwiązują konkretne problemy przekazane w zadaniach. Każdy prompt został starannie opracowany, aby dostarczyć precyzyjne i efektywne rozwiązania w kontekście tego konkretnego modelu sztucznej inteligencji.
+  <a href="LINK_DO_REPOZYTORIUM_AI" target="_blank">Zobacz repozytorium</a>.
+</p>
 
 
 <h2 align="left"></h2>
