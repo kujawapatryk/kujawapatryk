@@ -77,7 +77,7 @@
 
 ###
 
-<h2 align="left">Projekty:</h2>
+<h2 align="left">Projects:</h2>
 
 <div align="left">
 
@@ -102,18 +102,11 @@
 
 <h3><a href="https://github.com/kujawapatryk/SteamGamesCatalog" target="_blank">SteamGamesCatalog</a></h3>
 <p>
-  Serwis "SteamGamesCatalog" wyświetla informacje o grach z platformy Steam. Gry są pobierane przy użyciu oficjalnego API STEAM. Użytkownicy mają możliwość:
-  <ul>
-    <li>Przeglądania gier.</li>
-    <li>Dodawania gier do ulubionych.</li>
-    <li>Oceniania wybranych gier.</li>
-    <li>Wyszukiwania gier po nazwie.</li>
-    <li>Filtrowania gier według kategorii.</li>
-    <li>Tworzenia konta użytkownika z avatarem.</li>
-  </ul>
-  <a href="LINK_DO_WERSJI_LIVE_JEŚLI_ISTNIEJE" target="_blank">Zobacz wersję live</a>.
+  "SteamGamesCatalog" is a service showcasing games from the Steam platform, utilizing the official STEAM API. Users can browse, rate, add games to favorites, search for them by name, filter by category, and create accounts with avatars.
+  <a href="https://gamescatalog.heyweb.pl/" target="_blank">See the live version</a>.
 </p>
-<p><strong>Technologie:</strong> PHP Laravel, MySQL MariaDB, szablony Blade.</p>
+<p><strong>Technologies:</strong> PHP Laravel, MySQL MariaDB, Blade templates.</p>
+
 
 
 
