@@ -114,6 +114,14 @@
 <p><strong>Technologies:</strong> PHP Laravel, MySQL MariaDB, Blade templates.</p>
 
 
+<h3><a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">FreeCodeCamp</a></h3>
+<p>
+  Ukończyłem wiele zadań na platformie FreeCodeCamp, zdobywając umiejętności w różnych dziedzinach programowania i rozwoju webowego.
+  <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">Zobacz moje wykonane zadania</a>.
+</p>
+<p>
+  <strong>Certyfikat:</strong> <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">Zobacz mój certyfikat</a>.
+</p>
 
 
 
