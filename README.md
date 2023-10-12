@@ -95,10 +95,25 @@
 
 <h3><a href="https://github.com/kujawapatryk/HeadHunter_client" target="_blank">HeadHunter</a></h3>
 <p>
-  "HeadHunter" narodził się jako grupowy projekt w ramach MegaKurs. Jest to platforma rekrutacyjna, która ma na celu łączenie absolwentów kursu z headhunterami z różnych firm. Mimo że pierwotnie projekt nie został ukończony przez grupę, postanowiłem podjąć się wyzwania i dokończyć go według specyfikacji.
-  <a href="https://headhunter.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
+  "HeadHunter" originated as a group project within MegaKurs. It's a recruitment platform aimed at connecting course graduates with headhunters from various companies. Although the project was not initially completed by the group, I decided to take on the challenge and finish it according to the specifications.
+  <a href="https://headhunter.heyweb.pl/" target="_blank">See the live version</a>.
 </p>
-<p><strong>Technologie:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+<p><strong>Technologies:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+
+<h3><a href="https://github.com/kujawapatryk/SteamGamesCatalog" target="_blank">SteamGamesCatalog</a></h3>
+<p>
+  Serwis "SteamGamesCatalog" wyświetla informacje o grach z platformy Steam. Gry są pobierane przy użyciu oficjalnego API STEAM. Użytkownicy mają możliwość:
+  <ul>
+    <li>Przeglądania gier.</li>
+    <li>Dodawania gier do ulubionych.</li>
+    <li>Oceniania wybranych gier.</li>
+    <li>Wyszukiwania gier po nazwie.</li>
+    <li>Filtrowania gier według kategorii.</li>
+    <li>Tworzenia konta użytkownika z avatarem.</li>
+  </ul>
+  <a href="LINK_DO_WERSJI_LIVE_JEŚLI_ISTNIEJE" target="_blank">Zobacz wersję live</a>.
+</p>
+<p><strong>Technologie:</strong> PHP Laravel, MySQL MariaDB, szablony Blade.</p>
 
 
 
