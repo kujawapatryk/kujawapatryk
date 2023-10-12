@@ -101,10 +101,21 @@
 
 <h3><a href="https://github.com/kujawapatryk/HeadHunter_client" target="_blank">HeadHunter</a></h3>
 <p>
-  "HeadHunter" originated as a group project within MegaKurs. It's a recruitment platform aimed at connecting course graduates with headhunters from various companies. Although the project was not initially completed by the group, I decided to take on the challenge and finish it according to the specifications.
+  "HeadHunter" originated as a group project within MegaKurs. It's a recruitment platform designed to bridge the gap between course graduates and headhunters from various companies. Although the project was not initially completed by the group, I decided to take on the challenge and finish it according to the specifications.
   <a href="https://headhunter.heyweb.pl/" target="_blank">See the live version</a>.
 </p>
+<p>
+  <strong>Key Features:</strong>
+  <ul>
+    <li>User authentication: login, registration, password reset, account activation.</li>
+    <li>Profile management: password and email change, CV data filling.</li>
+    <li>User roles: user, HR, admin with specific permissions.</li>
+    <li>HR functionalities: browse user CVs, filter users by ratings, salary expectations, etc., reserve users for interviews, or mark as hired.</li>
+    <li>Admin functionalities: add students and HRs, view hired users, restore users.</li>
+  </ul>
+</p>
 <p><strong>Technologies:</strong> TypeScript, React, Node.js, Express.js, MariaDB, SASS, Passport.js.</p>
+
 
 <h3><a href="https://github.com/kujawapatryk/SteamGamesCatalog" target="_blank">SteamGamesCatalog</a></h3>
 <p>
