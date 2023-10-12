@@ -83,12 +83,15 @@
 
   <h3><a href="https://github.com/kujawapatryk/toDoList_client" target="_blank">ToDoList</a></h3>
   <p>
-    Aplikacja ToDoList stworzona jako zadanie rekrutacyjne. Umożliwia dodawanie, oznaczanie i usuwanie zadań w intuicyjny sposób.
-    <a href="https://todo.heyweb.pl/" target="_blank">Zobacz wersję live</a>.
+    The ToDoList application was created as a recruitment task. It allows for adding, marking, and deleting tasks in an intuitive manner. Originally, the application was designed with a backend in Nest.js, but I decided to create an additional backend version in Laravel, which is compatible with the existing frontend.
+    <a href="https://todo.heyweb.pl/" target="_blank">See the live version</a>.
   </p>
-  <p><strong>Technologie:</strong> TypeScript, React, Nest.js, MariaDB, Jest, Cypress, Docker.</p>
+  <p><strong>Frontend:</strong> TypeScript, React, Cypress, Docker. <a href="https://github.com/kujawapatryk/toDoList_client" target="_blank">Repository</a></p>
+  <p><strong>Backend (Nest.js):</strong> Nest.js, MariaDB, Jest, Docker. <a href="https://github.com/kujawapatryk/toDoList_server" target="_blank">Repository</a></p>
+  <p><strong>Backend (Laravel):</strong> Laravel, MariaDB, PHPUnit. <a href="https://github.com/kujawapatryk/toDoList_server_laravel" target="_blank">Repository</a></p>
 
 </div>
+
 
 <h3><a href="https://github.com/kujawapatryk/HeadHunter_client" target="_blank">HeadHunter</a></h3>
 <p>
