@@ -116,17 +116,17 @@
 
 <h3><a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">FreeCodeCamp</a></h3>
 <p>
-  Ukończyłem zadania na platformie FreeCodeCamp, zdobywając umiejętności w różnych dziedzinach programowania i rozwoju webowego.
-  <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">Zobacz moje wykonane zadania</a>.
+  I completed tasks on the FreeCodeCamp platform, gaining skills in various areas of programming and web development.
+  <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">See my completed tasks</a>.
 </p>
 <p>
-  <strong>Certyfikat:</strong> <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">Zobacz mój certyfikat</a>.
+  <strong>Certificate:</strong> <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">View my certificate</a>.
 </p>
 
-<h3><a href="LINK_DO_REPOZYTORIUM_AI" target="_blank">Prompty dla ChatGPT</a></h3>
+<h3><a href="LINK_TO_REPOSITORY_AI" target="_blank">Prompts for ChatGPT</a></h3>
 <p>
-  Repozytorium zawiera prompty dla modelu ChatGPT od OpenAI, które rozwiązują konkretne problemy przekazane w zadaniach. Każdy prompt został starannie opracowany, aby dostarczyć precyzyjne i efektywne rozwiązania w kontekście tego konkretnego modelu sztucznej inteligencji.
-  <a href="LINK_DO_REPOZYTORIUM_AI" target="_blank">Zobacz repozytorium</a>.
+  This repository contains prompts for the ChatGPT model from OpenAI, which address specific problems presented in tasks. Each prompt has been carefully crafted to provide effective solutions in the context of this specific artificial intelligence model.
+  <a href="LINK_TO_REPOSITORY_AI" target="_blank">See the repository</a>.
 </p>
 
 
