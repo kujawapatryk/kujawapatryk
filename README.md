@@ -120,7 +120,7 @@
 <h3><a href="https://github.com/kujawapatryk/SteamGamesCatalog" target="_blank">SteamGamesCatalog</a></h3>
 <p>
   "SteamGamesCatalog" is a service showcasing games from the Steam platform, utilizing the official STEAM API. Users can browse, rate, add games to favorites, search for them by name, filter by category, and create accounts with avatars.
-  <a href="https://gamescatalog.heyweb.pl/" target="_blank">See the live version</a>.
+<!--   <a href="https://gamescatalog.heyweb.pl/" target="_blank">See the live version</a>. -->
 </p>
 <p><strong>Technologies:</strong> PHP Laravel, MySQL MariaDB, Blade templates.</p>
 
