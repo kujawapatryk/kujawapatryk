@@ -98,6 +98,29 @@
 
 </div>
 
+<h3><a href="https://github.com/kujawapatryk/EmployeeManagementPanel" target="_blank">Employee Management Panel</a></h3>
+<p>
+  The "Employee Management Panel" is a web application for managing employee information, their dietary preferences, and company associations. Developed in PHP using the Laravel framework, it enables complete management of employee data from creation, through editing, to deletion.
+</p>
+<p><strong>Technologies:</strong> PHP, Laravel, Blade, MySQL. <a href="https://github.com/kujawapatryk/EmployeeManagementPanel" target="_blank">Repository</a></p>
+
+###
+
+<h3><a href="https://github.com/kujawapatryk/CardManagement" target="_blank">CardManagement</a></h3>
+<p>
+  The "CardManagement" project is a system for managing cards, consisting of separate frontend (Vue.js) and backend (Laravel) parts. The application allows CRUD operations on card data and includes advanced authentication and validation features.
+</p>
+<p><strong>Frontend:</strong> Vue.js. <a href="https://github.com/kujawapatryk/CardManagement_client" target="_blank">Repository</a></p>
+<p><strong>Backend:</strong> PHP, Laravel, MySQL. <a href="https://github.com/kujawapatryk/CardManagement" target="_blank">Repository</a></p>
+
+###
+
+<h3><a href="https://github.com/kujawapatryk/PostSyncer" target="_blank">PostSyncer</a></h3>
+<p>
+  "PostSyncer" is a Symfony-based application for syncing and managing posts. Utilizing a REST API, the app fetches posts and saves them to a local database, offering features such as post deletion and display in a web application.
+</p>
+<p><strong>Technologies:</strong> PHP, Symfony, MariaDB. <a href="https://github.com/kujawapatryk/PostSyncer" target="_blank">Repository</a></p>
+
 
 <h3><a href="https://github.com/kujawapatryk/HeadHunter_client" target="_blank">HeadHunter</a></h3>
 <p>
