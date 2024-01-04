@@ -157,11 +157,7 @@
   <strong>Certificate:</strong> <a href="https://www.freecodecamp.org/Patryk_Kujawa" target="_blank">View my certificate</a>.
 </p>
 
-<h3><a href="https://github.com/kujawapatryk/ChatGPT--TaskSolutions/tree/main" target="_blank">Prompts for ChatGPT</a></h3>
-<p>
-  This repository contains prompts for the ChatGPT model from OpenAI, which address specific problems presented in tasks. Each prompt has been carefully crafted to provide effective solutions in the context of this specific artificial intelligence model.
-  <a href="https://github.com/kujawapatryk/ChatGPT--TaskSolutions/tree/main" target="_blank">See the repository</a>.
-</p>
+
 
 
 <h2 align="left"></h2>
